@@ -34,7 +34,7 @@ This is a simple web-based tool designed to parse Excel files (.xlsx) and extrac
 
 
 ## Author:
-- [Lakshya Garg
-- Lakshya.garg2004@gmail.com]
+- Lakshya Garg
+- Email: Lakshya.garg2004@gmail.com
 
 Enjoy parsing Excel files effortlessly with this handy tool! If you encounter any issues or have suggestions for improvements, please let us know. Happy coding! 🚀
